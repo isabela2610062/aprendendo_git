@@ -12,3 +12,5 @@ Vamos aprender a fazer um commit local.
 
 vendo um commit com mais de um arquivo
 
+alterando um arquivo na nuvem quando exixte um reposiório local
+
